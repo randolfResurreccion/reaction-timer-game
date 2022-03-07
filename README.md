@@ -1,5 +1,5 @@
 # reaction-timer-game
-A simple Reaction Timer Game using Vue 3 framework
+A simple Reaction Timer Game using Vue 3
 
 ## Project setup
 ```
